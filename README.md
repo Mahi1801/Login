@@ -1,4 +1,7 @@
 # Login
 This is my first Git Repository.
 <br>
-Author -- Mahi Singhal
+Author -- Mahi Singhal.
+Learning  Git and GitHub
+
+
